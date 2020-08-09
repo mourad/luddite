@@ -1,4 +1,4 @@
-module github.com/SpirentOrion/luddite.v2
+module github.com/mourad/luddite.v2
 
 go 1.14
 
