@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/K-Phoen/negotiation v0.0.0-20160529191006-5f2c7e65d11c
+	github.com/SpirentOrion/luddite.v2 v0.0.0-20200213150903-7a54ca7a96fb
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/gorilla/schema v1.1.0
 	github.com/prometheus/client_golang v0.9.1

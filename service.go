@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/prometheus/client_golang/prometheus/v0"
 	"github.com/rs/cors"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/SpirentOrion/trace.v2"
